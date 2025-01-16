@@ -36,6 +36,9 @@ TARGET_2ND_CPU_VARIANT := cortex-a55
 # A/B
 AB_OTA_UPDATER := false
 
+# Security Patch Level
+VENDOR_SECURITY_PATCH := 2024-10-11
+
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
