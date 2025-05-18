@@ -47,6 +47,9 @@ BOARD_USES_QCOM_HARDWARE := true
 # RIL
 ENABLE_VENDOR_RIL_SERVICE := true
 
+# Vendor security patch
+VENDOR_SECURITY_PATCH := 2025-03-26
+
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
