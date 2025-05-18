@@ -1,4 +1,3 @@
-Copyright (C) 2020 The LineageOS Project
-Copyright (C) 2020-2021 Paranoid Android.
+Copyright (C) 2025 The LineageOS Project
 
-# Common device tree for Xiaomi SM6150 based devices
+# Common device tree for Xiaomi 11 Lite 4G ( Courbet )
