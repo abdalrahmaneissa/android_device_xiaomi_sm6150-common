@@ -108,9 +108,9 @@ TARGET_COPY_OUT_SYSTEM_EXT := system_ext
 TARGET_COPY_OUT_VENDOR := vendor
 
 # Properties
-TARGET_ODM_PROP += $(COMMON_PATH)/odm.prop
-TARGET_SYSTEM_PROP += $(COMMON_PATH)/system.prop
-TARGET_VENDOR_PROP += $(COMMON_PATH)/vendor.prop
+TARGET_ODM_PROP += $(COMMON_PATH)/properties/odm.prop
+TARGET_SYSTEM_PROP += $(COMMON_PATH)/properties/system.prop
+TARGET_VENDOR_PROP += $(COMMON_PATH)/properties/vendor.prop
 
 # Recovery
 BOARD_INCLUDE_RECOVERY_DTBO := true
